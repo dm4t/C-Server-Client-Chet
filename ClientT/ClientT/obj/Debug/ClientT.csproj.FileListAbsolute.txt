@@ -1,0 +1,10 @@
+c:\users\pc\source\repos\ClientT\ClientT\bin\Debug\ClientT.exe.config
+c:\users\pc\source\repos\ClientT\ClientT\bin\Debug\ClientT.exe
+c:\users\pc\source\repos\ClientT\ClientT\bin\Debug\ClientT.pdb
+c:\users\pc\source\repos\ClientT\ClientT\obj\Debug\ClientT.Properties.Resources.resources
+c:\users\pc\source\repos\ClientT\ClientT\obj\Debug\ClientT.csproj.GenerateResource.cache
+c:\users\pc\source\repos\ClientT\ClientT\obj\Debug\ClientT.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\ClientT\ClientT\obj\Debug\ClientT.exe
+c:\users\pc\source\repos\ClientT\ClientT\obj\Debug\ClientT.pdb
+C:\Users\PC\source\repos\ClientT\ClientT\obj\Debug\ClientT.Client.resources
+C:\Users\PC\source\repos\ClientT\ClientT\obj\Debug\ClientT.csprojAssemblyReference.cache

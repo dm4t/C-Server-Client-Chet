@@ -1,0 +1,26 @@
+C:\Users\PC\source\repos\ServerT\ServerT\bin\Debug\ServerT.exe.config
+C:\Users\PC\source\repos\ServerT\ServerT\bin\Debug\ServerT.exe
+C:\Users\PC\source\repos\ServerT\ServerT\bin\Debug\ServerT.pdb
+C:\Users\PC\source\repos\ServerT\ServerT\obj\Debug\ServerT.Form1.resources
+C:\Users\PC\source\repos\ServerT\ServerT\obj\Debug\ServerT.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ServerT\ServerT\obj\Debug\ServerT.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ServerT\ServerT\obj\Debug\ServerT.exe
+C:\Users\PC\source\repos\ServerT\ServerT\obj\Debug\ServerT.pdb
+C:\Users\PC\source\repos\ServerT\ServerT\obj\Debug\ServerT.csprojAssemblyReference.cache
+C:\Users\Martin\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\bin\Debug\ServerT.exe.config
+C:\Users\Martin\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\bin\Debug\ServerT.exe
+C:\Users\Martin\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\bin\Debug\ServerT.pdb
+C:\Users\Martin\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\obj\Debug\ServerT.csprojAssemblyReference.cache
+C:\Users\Martin\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\obj\Debug\ServerT.Form1.resources
+C:\Users\Martin\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\obj\Debug\ServerT.csproj.GenerateResource.cache
+C:\Users\Martin\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\obj\Debug\ServerT.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\obj\Debug\ServerT.exe
+C:\Users\Martin\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\obj\Debug\ServerT.pdb
+C:\Users\m-vas\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\bin\Debug\ServerT.exe.config
+C:\Users\m-vas\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\bin\Debug\ServerT.exe
+C:\Users\m-vas\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\bin\Debug\ServerT.pdb
+C:\Users\m-vas\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\obj\Debug\ServerT.csprojAssemblyReference.cache
+C:\Users\m-vas\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\obj\Debug\ServerT.Form1.resources
+C:\Users\m-vas\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\obj\Debug\ServerT.csproj.GenerateResource.cache
+C:\Users\m-vas\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\obj\Debug\ServerT.exe
+C:\Users\m-vas\Google Drive\CV\Socket-TCP\Socket-TCP\TCP\ServerT\ServerT\obj\Debug\ServerT.pdb
